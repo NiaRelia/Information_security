@@ -1,3 +1,9 @@
+# 1.0.6
+
+## docs: 
+
+-added report and presentation
+
 # 1.0.5
 
 ## features:
