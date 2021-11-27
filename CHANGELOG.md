@@ -1,14 +1,14 @@
 # 1.0.7
 
-## docs: 
+## features:
 
--added report and presentation
+- added lab6 report and presentation
 
 # 1.0.6
 
 ## docs: 
 
--added report and presentation
+- added report and presentation
 
 # 1.0.5
 
