@@ -1,3 +1,9 @@
+# 1.0.8
+
+## features:
+
+- added lab7 report and presentation
+
 # 1.0.7
 
 ## features:
